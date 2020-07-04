@@ -5,7 +5,7 @@ def game_hash
       team_name: "Brooklyn Nets",
       colors:["Black","White"], 
       players:[
-      {:player_name => ,
+      {:player_name => "Alan Anderson",
        :number => , 
        :shoe => , 
        :points => ,
@@ -16,7 +16,7 @@ def game_hash
        :slam_dunks =>
       }, 
       {
-       :player_name => ,
+       :player_name => "Reggie Evans",
        :number => , 
        :shoe => , 
        :points => ,
@@ -27,7 +27,7 @@ def game_hash
        :slam_dunks =>
       },
       {
-       :player_name => ,
+       :player_name => "Brook Lopez" ,
        :number => , 
        :shoe => , 
        :points => ,
@@ -39,7 +39,7 @@ def game_hash
         
       },
       {
-       :player_name => ,
+       :player_name => "Mason Plumlee" ,
        :number => , 
        :shoe => , 
        :points => ,
@@ -50,7 +50,7 @@ def game_hash
        :slam_dunks =>
       },
       {
-       :player_name => ,
+       :player_name => "Jason Terry" ,
        :number => , 
        :shoe => , 
        :points => ,
@@ -64,10 +64,10 @@ def game_hash
   },
     
     away:{
-      team_name:"",
-      colors: ["",""],
+      team_name:"Charlotte Hornets",
+      colors: ["Turquoise","Purple"],
       players:[
-      {:player_name => ,
+      {:player_name => "Jeff Adrien" ,
        :number => , 
        :shoe => , 
        :points => ,
@@ -78,7 +78,7 @@ def game_hash
        :slam_dunks =>
       }, 
       {
-       :player_name => ,
+       :player_name => "Bismack Biyombo" ,
        :number => , 
        :shoe => , 
        :points => ,
@@ -89,7 +89,7 @@ def game_hash
        :slam_dunks =>
       },
       {
-       :player_name => ,
+       :player_name => "DeSaga Diop" ,
        :number => , 
        :shoe => , 
        :points => ,
@@ -101,7 +101,7 @@ def game_hash
         
       },
       {
-       :player_name => ,
+       :player_name => "Ben Gordon" ,
        :number => , 
        :shoe => , 
        :points => ,
@@ -112,7 +112,7 @@ def game_hash
        :slam_dunks =>
       },
       {
-       :player_name => ,
+       :player_name => "Kemba Walker" ,
        :number => , 
        :shoe => , 
        :points => ,
